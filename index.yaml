@@ -1,0 +1,11 @@
+apiVersion: v1
+entries:
+  apka:
+  - apiVersion: v1
+    created: "2021-04-30T14:20:46.117226921+02:00"
+    digest: 8fd1ac6358d7675c7342c2747b3b8e100e93559bf01c438177ae686853be0b70
+    name: apka
+    urls:
+    - https://sylwekj97.github.io/helm/apka-5.tgz
+    version: "5"
+generated: "2021-04-30T14:20:46.116816625+02:00"
